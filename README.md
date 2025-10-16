@@ -53,8 +53,8 @@ endmodule
 ```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: R NARESH KUMAR
-RegisterNumber:212224040213
+Developed by: M ragul
+RegisterNumber:212224100048
 
 
 

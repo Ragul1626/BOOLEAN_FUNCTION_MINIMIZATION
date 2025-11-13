@@ -53,24 +53,21 @@ endmodule
 ```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: M ragul
-RegisterNumber:212224100048
+Developed by: R NARESH KUMAR
+RegisterNumber:212224040213
 
 
 
 
-**RTL realization**
+**RTL**
 <img width="967" height="883" alt="de2" src="https://github.com/user-attachments/assets/451e9480-af8c-4808-9c4d-578f706ac7c4" />
 ![de22](https://github.com/user-attachments/assets/72e60d33-4f37-4f7f-88f9-9cbb22e8a310)
 
 
 **Output:**
-<img width="1032" height="497" alt="image" src="https://github.com/user-attachments/assets/d85225b5-a88c-49d7-ad2b-99862d144636" />
+<img width="1624" height="767" alt="image" src="https://github.com/user-attachments/assets/ac519789-bc7a-42ce-860a-49cbbfe327dc" />
 
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
